@@ -46,17 +46,17 @@ O valor disponível para o cliente depende do saldo da conta no momento da abert
 src/
 - model/
 - - Banco.java
-│ ├── Cliente.java
-│ ├── Conta.java (abstrata)
-│ ├── ContaCorrente.java
-│ ├── ContaPoupanca.java
-│ └── IConta.java (interface)
-├── service/
-│ ├── ContaService.java
-│ └── BancoService.java
-├── ui/
-│ └── MenuUI.java
-└── Main.java
+- - Cliente.java
+- - Conta.java (abstrata)
+- - ContaCorrente.java
+- - ContaPoupanca.java
+- - IConta.java (interface)
+- service/
+- - ContaService.java
+- - BancoService.java
+- ui/
+- - MenuUI.java
+- Main.java
 
 
 ---
