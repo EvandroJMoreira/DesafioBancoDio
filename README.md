@@ -44,8 +44,8 @@ O valor disponível para o cliente depende do saldo da conta no momento da abert
 ## 🧱 Estrutura de Pastas e Classes
 
 src/
-├── model/
-│ ├── Banco.java
+- model/
+- - Banco.java
 │ ├── Cliente.java
 │ ├── Conta.java (abstrata)
 │ ├── ContaCorrente.java
